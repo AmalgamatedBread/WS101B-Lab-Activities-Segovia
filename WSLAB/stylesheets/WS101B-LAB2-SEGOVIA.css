@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+}   
+
+header {
+    text-align: center;
+    text-shadow: 3px 5px 10px;
+}
+
+img{
+    width: 10vw;
+    border-radius: 50%;
+    padding: .5vh;
+    box-shadow: 4px 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+#profile {
+    width: 30vw;
+    display: flex;
+    font-size: .75rem;
+    font-weight: lighter;
+    margin: 20px auto;
+}
+
+#contact {
+    text-align: right;
+}
+
+#separator1 {
+    margin-top: 15px;
+}
+
+#portfolio {
+    text-align: left;
+}
+
+#separator2 {
+    margin-top: -25px;
+}
+
+#experience {
+    margin-top: 8vh;
+    display: flex;
+    gap: 2em;
+}
+
+#titles {
+    width: 20%;
+    text-align: right;
+    margin-right: 5em;
+    margin-left: 5em;
+
+}
+
+#content {
+    text-align: justify;
+    margin-top: 1vh;
+    margin-right: 5em; 
+}
+
+#education {
+    margin-top: 1vh;
+    display: flex;
+    gap: 2em;
+}
+
+#title2 {
+    width: 20%;
+    text-align: right;
+    margin-right: 5em;
+    margin-left: 5em;
+
+}
+
+#content2 {
+    text-align: justify;
+    margin-top: 1vh;
+    margin-right: 5em; 
+}
+
+#expertise {
+    margin-top: 5vh;
+    display: flex;
+    gap: 2em;
+    
+}
+
+#skills {
+    width: 20%;
+    text-align: right;
+    margin-right: 5em;
+    margin-left: 5em;
+}
+
+#separator3 {
+    margin-top: 1.5em;
+}
+
+#awards {
+    text-align: left;
+    margin-right: 5em; 
+}
+
+
+
+

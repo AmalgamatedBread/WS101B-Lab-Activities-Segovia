@@ -1,0 +1,30 @@
+body {
+    margin-left: 20vw;
+    margin-right: 20vw;
+    background-color: black;
+    color: ivory;
+}
+
+#name {
+    text-align: center;
+}
+
+#profession {
+    text-align: center;
+}
+
+#profile, img{
+
+    height: auto ;
+    width: 10%;
+    border-radius: 50%; 
+    border-style: solid; 
+    border-width: 2px;
+    margin-bottom: 5vh;
+
+}
+
+#Details {
+    display: flex;
+
+}
